@@ -1,1 +1,2 @@
-This is second text file with 1st line. Will create 2nd Commit
+This is second text file with 1st line. Will create 2nd Commit.
+Added 2nd line on this file. Will create 3rd Commit.
